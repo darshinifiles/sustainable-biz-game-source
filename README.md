@@ -14,3 +14,5 @@ Our game was built with react.js. Individual game 'screens' are stored within an
 ### Project Outline:
 The project centred around the development of an online role-playing game in which users take control of building a small restaurant business. To win, users must complete the game with enough money and sustainability points (awarded for ‘green’ decision making) to pass thresholds for both of these variables. This is accompanied by an article that uses information we gathered from interviews with small businesses, researchers and representative bodies to underline the game’s portrayal of the challenges faced by these businesses.
 
+Demo : https://darshinifiles.github.io/
+
